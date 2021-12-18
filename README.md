@@ -1,16 +1,19 @@
-### Hi there 👋
+## Criticize my work, email me at agiothyella@gmail.com
 
-<!--
-**Agiothyella/Agiothyella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Guide for my portofolio repositories:
 
-Here are some ideas to get you started:
+#### Development:
+- fe: Front End developed with SCSS & Javascript
+- react: Front End developed with ReactJS & CSS/SCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tag:
+- P: Personal
+- DA: Demo available
+
+### See 'Repsitories' tab for complete list of my works.
+
+Regards, AP
+<!---
+Agiothyella/Agiothyella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
