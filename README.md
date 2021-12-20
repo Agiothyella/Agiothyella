@@ -4,7 +4,7 @@
 
 #### Development:
 - fe: Front End developed with SCSS & Javascript
-- react: Front End developed with ReactJS & CSS/SCSS
+- react: Front End developed with ReactJS
 
 #### Tag:
 - P: Personal
