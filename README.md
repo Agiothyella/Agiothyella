@@ -3,7 +3,7 @@
 ### Guide for my portofolio repositories:
 
 #### Development:
-- fe: Front End developed with SCSS & Javascript
+- fe: Front End developed with Vanilla Javascript
 - react: Front End developed with ReactJS
 
 #### Tag:
