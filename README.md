@@ -3,7 +3,7 @@
 ### Guide for my portofolio repositories:
 
 #### Development:
-- **fe**: Front End developed with Vanilla Javascript
+- **fe**: Front End developed with vanilla HTML and Javascript
 - **react**: Front End developed with ReactJS
 - **js**: Focused more on programmatical side of things instead of design and presentation
 
