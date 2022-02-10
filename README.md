@@ -5,6 +5,7 @@
 #### Development:
 - fe: Front End developed with Vanilla Javascript
 - react: Front End developed with ReactJS
+- js: Focused more on programmatical side of things instead of design and presentation
 
 #### Tag:
 - P: Personal
