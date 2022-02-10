@@ -4,8 +4,8 @@
 
 #### Development:
 - **fe**: Front End developed with vanilla HTML and Javascript
+- **js**: Focused more on programmatical side of things instead of design and presentation (using vanilla Javascript)
 - **react**: Front End developed with ReactJS
-- **js**: Focused more on programmatical side of things instead of design and presentation
 
 #### Tag:
 - **P**: Personal
