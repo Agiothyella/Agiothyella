@@ -1,4 +1,4 @@
-## Criticize my work, email me at agiothyella@gmail.com
+## Criticize my work.
 
 ### Guide for my portofolio repositories:
 
